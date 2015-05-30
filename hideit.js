@@ -1,5 +1,5 @@
-if($){
-    alert('sdfa')
+if(typeof $){
+    alert('jquery not found please add jquery and use the plugin')
 }
 hideitObj = (function($){
     "use strict";
